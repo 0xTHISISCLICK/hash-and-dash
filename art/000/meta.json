@@ -1,0 +1,12 @@
+{
+    "name": "Hash && Dash #XX",
+    "symbol":"",
+    "description":"This is a generative drawing using the token's address as seed. It is part of the collection 'Hash && Dash' and was created using p5js, some salt and a bit of luck!\nReleased 2021/XX/XX by Christin Penz.\n\nThe generating script's SHA-256 fingerprint can be found in transaction XXX.",
+    "image": "https://raw.githubusercontent.com/0xTHISISCLICK/hash-and-dash/main/art/000/image.jpg",
+    "external_url": "http://christinpenz.de/hash-and-dash.html", 
+    "properties":
+    {
+        "files":[{"uri":"https://raw.githubusercontent.com/0xTHISISCLICK/hash-and-dash/main/art/000/hash_dash.js","type":"text/javascript"}],
+        "category":"p5js"
+    }
+}
