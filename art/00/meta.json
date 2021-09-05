@@ -5,6 +5,11 @@
     "image": "https://raw.githubusercontent.com/0xTHISISCLICK/hash-and-dash/main/art/00/image.jpg",
     "external_url": "http://christinpenz.de/hash-and-dash.html", 
     "seller_fee_basis_points": 0,
+    "collection": 
+	{   
+          "name": "Hash && Dash",
+          "family": "Hash && Dash"
+    },
     "properties":
     {
         "files":[{"uri":"https://raw.githubusercontent.com/0xTHISISCLICK/hash-and-dash/main/art/00/hash_dash.js","type":"text/javascript"}],
