@@ -14,6 +14,12 @@
     {
         "files":[{"uri":"https://raw.githubusercontent.com/0xTHISISCLICK/hash-and-dash/main/art/0e/hash_dash.js","type":"text/javascript"}],
         "category":"p5js",
-	    "creators": ["c1ickMxT4qG8M5xbuo65494knuKkLh7uGG59VAYxW8w"]
+	    "creators": [
+	         {
+	           "address": "c1ickMxT4qG8M5xbuo65494knuKkLh7uGG59VAYxW8w",
+	           "verified": true,
+			   "share": 100
+	         }
+	       ]
     }
 }

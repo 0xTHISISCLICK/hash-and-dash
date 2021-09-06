@@ -17,7 +17,8 @@
 	    "creators": [
 	         {
 	           "address": "c1ickMxT4qG8M5xbuo65494knuKkLh7uGG59VAYxW8w",
-	           "share": 100
+	           "verified": true,
+			   "share": 100
 	         }
 	       ]
     }
