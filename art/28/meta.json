@@ -2,7 +2,7 @@
     "name": "Hash && Dash #28",
     "symbol":"",
     "description":"This is a generative drawing using the token's address as seed. It is part of the collection 'Hash && Dash' and was created using p5js, some salt and a bit of luck! 1800x1800px, released 2021/09/13 by Christin Penz. The script's SHA-256 fingerprint can be found in transaction 38HNo2XnV1dsE4FirYBdjTFhcLNQ1RKVoQQvq5Zs957794tq6pB37UXbCqwc6gYyfVLnjHXUw3tfPmPsz4r35BXu.",
-    "image": "https://raw.githubusercontent.com/0xTHISISCLICK/hash-and-dash/main/art/27/image.jpg",
+    "image": "https://raw.githubusercontent.com/0xTHISISCLICK/hash-and-dash/main/art/28/image.jpg",
     "external_url": "http://christinpenz.de/hash-and-dash.html", 
     "seller_fee_basis_points": 0,
     "collection": 
