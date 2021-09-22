@@ -1,4 +1,4 @@
-const token = "";
+const token = "HJ8rE1m6MxbGq14MWN9XUDP6cyMaqWtD4aMzpg63HHWq";
 
 /* C.Penz 2021 - Hash and Dash */
 
